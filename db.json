@@ -1,0 +1,101 @@
+{
+     "appointment": [
+       {
+         "ticket": "bbFDhATEpcPr5zkrZdATh5",
+         "professional": "João da Silva Júnior",
+         "patient": "Paloma Oliveira",
+         "specialty": "Psicanalista",
+         "date": "2022-09-29T00:30:00.000Z",
+         "status": "Cancelada",
+         "patientId": "roiOJ1ChFfdHCYHspiFZStlwANg1",
+         "professionalId": "Jz2JIhekpucIaeVxeJqQJnxl6ss1",
+         "id": 1
+       },
+       {
+         "ticket": "tH8WrKBkyKsJQ167vsg6r1",
+         "professional": "João da Silva Júnior",
+         "patient": "Paloma Souza",
+         "specialty": "Psicanalista",
+         "date": "2022-09-23T17:00:00.000Z",
+         "status": "Agendada",
+         "patientId": "agJB8ozVnndK5up3OvVSk1gUUN13",
+         "professionalId": "Jz2JIhekpucIaeVxeJqQJnxl6ss1",
+         "id": 2
+       },
+       {
+         "ticket": "bYtpRbxkRhaKR5ogZ155fr",
+         "professional": "João da Silva Júnior",
+         "patient": "Paloma Oliveira",
+         "specialty": "Psicanalista",
+         "date": "2022-10-04T18:00:00.000Z",
+         "status": "Agendada",
+         "patientId": "roiOJ1ChFfdHCYHspiFZStlwANg1",
+         "professionalId": "Jz2JIhekpucIaeVxeJqQJnxl6ss1",
+         "id": 3
+       }
+     ],
+     "users": [
+       {
+         "userId": "roiOJ1ChFfdHCYHspiFZStlwANg1",
+         "role": "patient",
+         "name": "Paloma Oliveira",
+         "birthday": "10/05/2000",
+         "email": "plmsouzaoliveira@gmail.com",
+         "address": "Estrada Nova Brasília",
+         "state": "BA",
+         "city": "Salvador",
+         "firstName": "Paloma",
+         "lastName": "Souza de Oliveira",
+         "gender": "Feminino",
+         "cpf": "839.010.320-61",
+         "rg": "1234567",
+         "crm": "",
+         "specialty": "",
+         "cep": "41300400",
+         "num": "58",
+         "id": 1
+       },
+       {
+         "userId": "Jz2JIhekpucIaeVxeJqQJnxl6ss1",
+         "role": "professional",
+         "name": "João da Silva Júnior",
+         "birthday": "12/08/1990",
+         "email": "joaosilvapsimentesa@gmail.com",
+         "address": "Rua Sítio Floresta",
+         "neighborhood": "Piedade",
+         "state": "PE",
+         "city": "Jaboatão dos Guararapes",
+         "firstName": "João",
+         "lastName": "da Silva Júnior",
+         "gender": "Masculino",
+         "cpf": "879.503.940-64",
+         "rg": "7456123",
+         "crm": "123456-PE",
+         "specialty": "Psicanalista",
+         "cep": "54410400",
+         "num": "776",
+         "id": 2
+       },
+       {
+         "userId": "agJB8ozVnndK5up3OvVSk1gUUN13",
+         "role": "patient",
+         "name": "Paloma Souza",
+         "birthday": "10/07/1980",
+         "email": "papipink@gmail.com",
+         "address": "Rua Cinco",
+         "neighborhood": "São Francisco II",
+         "state": "MA",
+         "city": "Timon",
+         "firstName": "Paloma ",
+         "lastName": "Souza",
+         "gender": "Outro",
+         "cpf": "332.273.980-52",
+         "rg": "45678912",
+         "crm": "",
+         "specialty": "",
+         "cep": "65638140",
+         "num": "8876",
+         "id": 3
+       }
+     ]
+   }
